@@ -2,7 +2,7 @@
 
 # IPL Analytics SQL Repository
 
-![IPL Logo](https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Indian_Premier_League_Official_Logo.svg/250px-Indian_Premier_League_Official_Logo.svg.png)
+![IPL Logo]([https://upload.wikimedia.org/wikipedia/en/thumb/8/81/Indian_Premier_League_Official_Logo.svg/250px-Indian_Premier_League_Official_Logo.svg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fipl-logo&psig=AOvVaw16eTJYjzV46wrcM3FJUvij&ust=1715776093934000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMCI4JeSjYYDFQAAAAAdAAAAABAD))
 
 ## Overview
 
